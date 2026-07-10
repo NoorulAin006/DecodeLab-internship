@@ -123,15 +123,8 @@ The cybersecurity audit showed that the system has a solid baseline security con
 
 ## Author
 
-**Name:** *Your Name*
+Noor ul Ain
 
-**Course:** Bachelor of Cyber Security
-
-**Project:** Cybersecurity System Audit
-
-**Semester:** *Your Semester*
-
-**Institution:** *Your University*
 
 ---
 
